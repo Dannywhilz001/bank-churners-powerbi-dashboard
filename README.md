@@ -141,7 +141,7 @@ COUNTROWS(FILTER(Customer, Customer[Churn Risk] = "High"))
 1. Clone or download this repository:
 
    ```bash
-   git clone https://github.com/<Dannywhilz001>/bank-churners-powerbi-dashboard.git
+   git clone https://github.com/Dannywhilz001/bank-churners-powerbi-dashboard.git
    ```
 2. Open the `Bankchunners.pbix` file using **Power BI Desktop**.
 3. Explore all visuals and interact with filters/slicers to uncover insights.
