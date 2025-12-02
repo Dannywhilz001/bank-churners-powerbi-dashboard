@@ -10,7 +10,7 @@ This project demonstrates how Power BI can transform raw data into actionable in
 
 ## 🎯 Business Objective
 
-Customer churn is a critical challenge in the banking industry — it leads to substantial revenue loss and increases the cost of customer acquisition.  
+Customer churn is a critical challenge in the banking industry, it leads to substantial revenue loss and increases the cost of customer acquisition.  
 This dashboard is designed to help stakeholders:
 
 - Understand **why customers leave** (churn drivers)  
@@ -67,7 +67,7 @@ It contains attributes related to:
   - Churn Distribution by Gender and Education Level  
 
 📸 **Screenshot:**  
-![Dashboard 1](https://ibb.co/1YGz3YHr)
+[Dashboard 1](https://ibb.co/1YGz3YHr)
 
 ---
 
@@ -188,9 +188,9 @@ The **Bank Churners Dashboard** transforms raw data into business intelligence f
 
 📧 Email: oladotunolawale29@yahoo.com
 
-🔗 LinkedIn: http://www.linkedin.com/in/oladotun-olawale
+🔗 [LinkedIn](http://www.linkedin.com/in/oladotun-olawale)
 
-💼 Portfolio: https://github.com/Dannywhilz001
+💼 [Portfolio](https://github.com/Dannywhilz001)
 
 
 ---
