@@ -69,6 +69,7 @@ It contains attributes related to:
 📸 **Screenshot:**  
 [Dashboard 1](https://ibb.co/1YGz3YHr)
 
+
 ---
 
 ### 🧩 2️⃣ Demographic & Income Insights
@@ -81,7 +82,7 @@ It contains attributes related to:
 These visuals highlight which income and demographic segments are most likely to churn.
 
 📸 **Screenshot:**  
-![Dashboard 2](https://ibb.co/j9JQMJ2T)
+[Dashboard 2](https://ibb.co/j9JQMJ2T)
 
 ---
 
@@ -95,7 +96,7 @@ These visuals highlight which income and demographic segments are most likely to
 This section links customer churn to direct financial implications.
 
 📸 **Screenshot:**  
-![Dashboard 3](https://ibb.co/yn5Lwz9B)
+[Dashboard 3](https://ibb.co/yn5Lwz9B)
 
 ---
 
